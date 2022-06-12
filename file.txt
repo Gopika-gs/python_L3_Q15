@@ -1,0 +1,9 @@
+html
+css
+bootstrap
+javascript
+python
+mysql
+git 
+django
+angular
